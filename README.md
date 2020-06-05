@@ -23,7 +23,7 @@ Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), sa
 
 # Instruções de como usar esses arquivos:
 
-1.Baixe os arquivos aqui(são grandes demais para colocar no GitHub)
+1. Baixe os arquivos aqui(são grandes demais para colocar no GitHub)
 https://drive.google.com/file/d/1uMQbybDx7-LLhyasOivKSlg2_p_MWTwK/view?usp=sharing
 2. Para ver o vídeo tutorial completo clique aqui: [Link para vídeo no Youtube](https://www.youtube.com/watch?v=Q8DS2SR9VjE&feature=youtu.be)
 3. Extraia os arquivos e depois siga as instruções passadas no vídeo
