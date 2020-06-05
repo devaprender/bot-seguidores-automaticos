@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1uMQbybDx7-LLhyasOivKSlg2_p_MWTwK/view?usp=shari
 3. Extraia os arquivos e depois siga as instruções passadas no vídeo
 4. O bot irá navegar até a página de login e você terá 30 segundos para fazer o seu login(digitando seu usuário e senha)
 5. Digite o URL do perfil no qual o bot irá extrair seguidores
-6. Digite a quantidade de pessoas a serem seguidos
+6. Digite a quantidade de pessoas a serem seguidas
 
 ---
 
