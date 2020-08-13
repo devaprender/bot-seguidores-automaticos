@@ -1,4 +1,4 @@
-# Bem vindo ao repositório da [Dev Aprender](https://www.devaprender.com)!
+(Lei instruções completas)# Bem vindo ao repositório da [Dev Aprender](https://www.devaprender.com)!
 
 Descubra como o poder da programação pode **mudar seu o futuro** e a **sua vida!**
 
