@@ -1,5 +1,5 @@
-(Lei instruções completas)# Bem vindo ao repositório da [Dev Aprender](https://www.devaprender.com)!
-
+# Bem vindo ao repositório da [Dev Aprender](https://www.devaprender.com)!
+## (Lei instruções completas - Ensino como baixar arquivos abaixo)
 Descubra como o poder da programação pode **mudar seu o futuro** e a **sua vida!**
 
 Redes Sociais:
